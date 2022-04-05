@@ -1,2 +1,3 @@
-# violet
-Jadyn Violet Genesis Collection
+# VIOLET Token
+
+## Jadyn Violet Genesis Token
