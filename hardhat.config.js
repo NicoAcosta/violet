@@ -29,6 +29,7 @@ module.exports = {
 	abiExporter: {
 		path: './abi',
 		runOnCompile: true,
+		only: ['Violet'],
 		flat: true,
 		spacing: 2,
 		pretty: true
