@@ -1,0 +1,7 @@
+[
+  "constructor(string)",
+  "function raffled() view returns (bool)",
+  "function snapshotURL() view returns (string)",
+  "function winnerId() view returns (uint256)",
+  "function winnerRaffle()"
+]
