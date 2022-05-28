@@ -12,7 +12,7 @@ module.exports = {
 	networks: {
 		mainnet: {
 			url: process.env.MAINNET_NODE_URL,
-			accounts: [process.env.MAINNET_DEPLOYER_PRIVATE_KEY]
+			accounts: [process.env.RAFFLE_DEPLOYER_PRIVATE_KEY]
 		},
 		rinkeby: {
 			url: process.env.RINKEBY_NODE_URL,
